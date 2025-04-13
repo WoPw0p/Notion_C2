@@ -1,4 +1,4 @@
-# C2 Communication System
+# 一个基于Notion通信的C2简单实现
 
 这是一个基于Notion和WebSocket的C2（Command and Control）通信系统，包含服务端、控制端和被控端三个组件。
 
